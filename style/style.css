@@ -130,6 +130,24 @@ body {
   /* transform: scale(0.1); */
 }
 
+.zero {
+  position: relative;
+}
+
+.zero img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+.zero .hat {
+  position: absolute;
+  width: 80px;
+  top: -35px;
+  left: 41.5%;
+  /* transform: scale(0.1); */
+}
+
 .baloons img {
   display: inline-block;
   position: absolute;
